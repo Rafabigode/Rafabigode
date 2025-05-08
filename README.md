@@ -24,7 +24,7 @@
 ## Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/rafaelteixeixaromero" target="_blank">
+  <a href="www.linkedin.com/in/rafaelteixeiraromero" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30"/>
   </a>
 </p>
